@@ -1,0 +1,9 @@
+a.*
+a
+.vs
+*.java
+*.cs
+.ropeproject/
+settings.json
+*.rb
+by_learners/
